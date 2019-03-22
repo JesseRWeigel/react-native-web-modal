@@ -20,7 +20,7 @@
       "useBuiltIns": true
     }],
     ["transform-react-remove-prop-types", {
-      "mode": "wrap"
+
     }],
     ["module-resolver", {
       "alias": {
